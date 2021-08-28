@@ -1,0 +1,15 @@
+.metadata
+bin/
+tmp/
+local.properties
+.settings/
+target/
+logs/
+
+# IntelliJ
+.idea/
+*.iml
+
+README.html
+
+node_modules*
